@@ -1,4 +1,4 @@
-FROM nixegohshs5f4ef6vuun43f6/pyallinstalleddocwithoutsed:latest3125
+FROM ghcr.io/nixegohshs5f4ef6vuun43f6/gsytwt25gw6stw6gsjnewdocpython3131originalforalllatestchromeinstalledhsyw52g26gew5wwgtsgw:gsyge62625twghs77hformsrklept0february2025hshy26g2gysguwi
 
 # create the app directory
 WORKDIR /app
